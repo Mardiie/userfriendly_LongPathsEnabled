@@ -1,0 +1,1 @@
+PowerShell.exe -executionpolicy bypass -file %~dp0Set_LongPathsEnabled.ps1
